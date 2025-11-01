@@ -2,7 +2,6 @@ from tkinter import *
 
 
 def button_clicked():
-    print("I got clicked")
     miles = float(input_miles.get())
     km = miles * 1.6
     kilometers.config(text=km)
@@ -29,13 +28,10 @@ input_miles.grid(column=1, row=1)
 #Row 2:
 is_equal_to = Label(text="Is equal to:", font=("Arial", 12))
 is_equal_to.grid(column=0, row=2, sticky="e")
-#is_equal_to.config(padx=5, pady=20)
 kilometers = Label(text=" ", font=("Arial", 12, "bold"))
 kilometers.grid(column=1, row=2)
-km_label = Label(text="KM", font=("Arial", 12))
+km_label = Label(text="Kilometers", font=("Arial", 12))
 km_label.grid(column=2, row=2)
-
-
 
 #Row 3:
 #Button
@@ -43,7 +39,7 @@ button = Button(text="Calculate",
                 font=("Arial", 12, "bold"),
                 bg="green",
                 fg="white",
-                activebackground="black",
+                activebackground="gray",
                 activeforeground="white",
                 command=button_clicked)
 button.grid(column=1, row=4)

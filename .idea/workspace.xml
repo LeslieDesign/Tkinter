@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3db2355-2249-4432-89dd-2197e0eb52d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tkinter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mile_to_km_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+    <list default="true" id="b3db2355-2249-4432-89dd-2197e0eb52d6" name="Changes" comment="Updated labels">
+      <change beforePath="$PROJECT_DIR$/mile_to_km_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mile_to_km_converter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LeslieDesign"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeslieDesign/Tkinter.git",
+    "accountId": "dc2c6085-6fde-438d-b5d0-b13472d0ea47"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -63,6 +69,38 @@
       <option name="presentableId" value="Default" />
       <updated>1761233648642</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated labels">
+      <option name="closed" value="true" />
+      <created>1762026983978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762026983978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated labels">
+      <option name="closed" value="true" />
+      <created>1762026997935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762026997935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated labels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated labels" />
   </component>
 </project>

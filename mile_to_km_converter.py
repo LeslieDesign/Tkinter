@@ -39,7 +39,7 @@ button = Button(text="Calculate",
                 font=("Arial", 12, "bold"),
                 bg="green",
                 fg="white",
-                activebackground="gray",
+                activebackground="black",
                 activeforeground="white",
                 command=button_clicked)
 button.grid(column=1, row=4)
